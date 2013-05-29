@@ -1,0 +1,15 @@
+{
+  "name": "require-shim-poc",
+  "version": "0.0.1",
+  "author": "Doug Neiner <dneiner@appendto.com>",
+  "description": "A small proof of concept for using shim's in Node.js",
+  "main": "./js/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a2labs/require-shim-poc.git"
+  },
+  "devDependencies": {
+    "requirejs": "2.1.5"
+  },
+  "license": "MIT"
+}
