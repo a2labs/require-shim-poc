@@ -11,4 +11,5 @@ Expected output:
 
 ```bash
 [ '1---Test', '2---Test', '3---Test' ]
+[ [ 'test', true ], [ 'label', 'The Global Shim' ] ]
 ```
